@@ -11,12 +11,12 @@ $ open https://cmake.org/
 - [X] 1. Создать публичный репозиторий с названием **lab04** на сервисе **GitHub**
 - [X] 2. Ознакомиться со ссылками учебного материала
 - [X] 3. Выполнить инструкцию учебного материала
-- [X] 4. Составить отчет и отправить ссылку личным сообщением в **Slack**
+
 
 ## Tutorial
 
 ```ShellSession
-$ export GITHUB_USERNAME=Alexey01M
+$ export GITHUB_USERNAME=kirill-isaev
 ```
 
 ```ShellSession
